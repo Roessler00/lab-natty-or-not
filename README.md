@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🤘 Programadores, IA e Heavy Metal: Uma Experiência Visual 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem como objetivo explorar o poder das IAs generativas na criação de imagens visualmente impactantes e com temáticas diferenciadas. A ideia foi misturar tecnologia, programadores e heavy metal em um conceito estético único.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Bing Image Creator** (para geração das imagens)
+- **ChatGPT** (para me auxiliar no preenchimento deste template 😉)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação envolveu a geração de imagens utilizando o **Bing Image Creator**, com três prompts distintos:
+1. **Imagens realistas envolvendo programadores e heavy metal**
+2. **Realistic Images with Artificial Intelligence background mixed with Heavy Metal music theme**
+3. **Um programador com roupas descoladas da Idade Média, programando em uma mesa de taverna na Idade Média**
+
+A partir desses prompts, foram geradas imagens que combinam os elementos descritos, buscando manter uma estética autêntica e visualmente impactante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados foram imagens que capturam a essência do tema, com elementos de programadores inseridos em contextos de heavy metal e IA, além da ideia criativa do programador medieval. O Bing Image Creator conseguiu traduzir bem a mistura de estilos propostos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![_808731c3-42f9-46e0-90d0-752790eb3bdb](https://github.com/user-attachments/assets/e8c3da4f-68f0-4e1c-aef9-ca69e072539f)
+![_1e409edb-b833-46c4-9d38-64b847ab484c](https://github.com/user-attachments/assets/2dfc8f99-0d73-42e6-97f3-98dc98c2309a)
+![_363127c3-97c0-427d-bae2-61ab7464d317](https://github.com/user-attachments/assets/d38a73d0-8d2a-4ccc-99b9-148e479daf80)
+![_a21cdec7-2b4f-4e63-989a-8f66b741e92c](https://github.com/user-attachments/assets/cbd76b53-f5f6-4e59-b7ed-1795d0f5838a)
+![_0e35e151-cb78-4dd4-87d0-21e709f89eda](https://github.com/user-attachments/assets/f68c8b57-8842-4d01-bd88-bd98fc7db224)
+![_123d3b43-928f-44a4-81ef-230617fea162](https://github.com/user-attachments/assets/a9ac14db-fdbf-411c-bc39-00f1f813b491)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Criar algo 'natty' com IA foi um exercício interessante, pois exigiu a escolha cuidadosa de prompts para guiar a geração das imagens. Percebi que pequenas mudanças na formulação do prompt impactam significativamente os resultados. A combinação de tecnologia com estéticas mais artísticas e alternativas mostrou o potencial criativo das IAs generativas.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
